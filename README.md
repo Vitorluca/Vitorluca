@@ -28,5 +28,5 @@
     <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-ar21.svg" alt="wireshark" height="40"/> </a>
     <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="jupyter" height="40"/> </a>
     <a href="" target="_blank"> <img src="https://github.com/Jefferson-Lopes/Jefferson-Lopes/blob/master/resources/matplotlib.svg" alt="matplotlib" height="40"/> </a>
-    <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" height="40"/> </a>
+    <a href="" target="_blank"> <img src="https://github.com/Vitorluca/Vitorluca/blob/main/images/virtuoso.png?raw=true" alt="virtuoso" height="40"/> </a>
 </p>
