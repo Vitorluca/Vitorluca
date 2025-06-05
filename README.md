@@ -15,9 +15,7 @@
     <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
     <a href="" target="_blank"> <img src="https://github.com/Jefferson-Lopes/Jefferson-Lopes/blob/master/resources/SystemVerilog.png" alt="system verilog" height="40"/> </a>
     <a href="" target="_blank"> <img src="https://github.com/Jefferson-Lopes/Jefferson-Lopes/blob/master/resources/matlab.png" alt="matlab" width="40" height="40"/> </a>
-    <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" height="40"/> </a>
     <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" alt="bash" height="40"/> </a>
-    <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" height="40"/> </a>
 </p>
 
 ## 🚀 Some of the Tools I Use
@@ -30,4 +28,5 @@
     <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-ar21.svg" alt="wireshark" height="40"/> </a>
     <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="jupyter" height="40"/> </a>
     <a href="" target="_blank"> <img src="https://github.com/Jefferson-Lopes/Jefferson-Lopes/blob/master/resources/matplotlib.svg" alt="matplotlib" height="40"/> </a>
+    <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" height="40"/> </a>
 </p>
