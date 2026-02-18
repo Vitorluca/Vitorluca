@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vitor.teixeira@ee.ufcg.edu.br)
 [![Whastapp](https://img.shields.io/badge/-Whastapp-success?style=flat&logo=Whatsapp&logoColor=white)](https://wa.me/558393622371)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-teixeira-21909a213)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Vitor+Lucas;Electrical+Engineer+student;Researcher+at+XMEN+Lab)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Vitor+Lucas;Electrical+Engineer+student;Researcher+at+LSD+Lab)](https://git.io/typing-svg)
 
 ## 👨‍💻 Programming Languages
 
